@@ -1,1 +1,8 @@
-alert("صباح الخير يا عمدة دوس اوك");
+
+h1{
+    position: absolute;
+    color: goldenrod;
+    }
+    body{
+        background-color: brown;
+    }
